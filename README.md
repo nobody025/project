@@ -1,3 +1,3 @@
 # project
 this is first project
-<!-- commit -->
+using commit cmd
